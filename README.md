@@ -1,1 +1,1 @@
-Keyboard layouts for Windows 7, 8 and 10 as well as Debian-based Linux distributions to type transliteration characters according to the Deutsche Morgenländische Gesellschaft (DMG).
+Keyboard layouts for Windows 7, 8 and 10 as well as Debian-based Linux distributions to type transliteration characters according to the Deutsche Morgenländische Gesellschaft (DMG). More information in [this blog post](http://weitnahbei.de/2015/08/tastaturbelegungen-fur-dmg-umschrift-windows-7-8-und-10-sowie-debian-basierte-linux-distributionen).
